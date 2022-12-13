@@ -1,0 +1,6 @@
+# any file with extension .gs will be ignored
+*.gs
+
+!vip.gs
+node_packs
+nabil.*
